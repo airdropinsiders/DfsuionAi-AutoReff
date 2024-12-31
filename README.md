@@ -1,5 +1,4 @@
 # Dfusions Auto Generate Referrals
-![banner](image-1.png)
 
 This script automates generate Referrals for dfussion Ai.
 
@@ -15,7 +14,6 @@ This script automates generate Referrals for dfussion Ai.
 - or
 - 2captcha apikey you can get it here: [2captcha.com/](https://2captcha.com/enterpage)
 - dfusion referral code: go to here [genesis.dfusion.ai](https://genesis.dfusion.ai?r=qduj8tgj) and copy your code
-![reffCode](image.png)
 ## Installation
 
 1. Clone the repository:
